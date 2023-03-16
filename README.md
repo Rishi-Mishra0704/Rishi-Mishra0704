@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Mishra</h1>
 <h3 align="center">A passionate Full-stack developer from India trying to make tech Industry thrive even further. Also please don't ask why I know many languages</h3>
-<img align="right" alt="Coding" width="400" src= "https://tenor.com/view/coding-gif-24625099">
+<img align="right" alt="Coding" width="300" height = "300" src = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 - 🌱 I’m currently learning **React, Ruby, Ruby on rails, other databases**
 
 - 💬 Ask me about **Websites , Ai , Web3 and other geeky things**
