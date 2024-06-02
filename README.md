@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" height = "300" src = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 - 🌱 I’m currently learning **React, Ruby, Ruby on rails, other databases**
 
-- 💬 Ask me about **Websites , Ai , Web3 and other geeky things**
+- 💬 Ask me about <b>Websites , Ai , Web3 and other geeky things</b>
 
 - 📫 How to reach me **rishimishra0404@gmail.com**
 
