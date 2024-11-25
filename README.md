@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishi Mishra</h1>
 <h3 align="center">A passionate Full-stack developer from India trying to make tech Industry thrive even further. </h3>
 <img align="right" alt="Coding" width="300" height = "300" src = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-- 🌱 I’m currently learning **React, Ruby, Ruby on rails, other databases**
+- 🌱 I’m currently learning how to become better
 
-- 💬 Ask me about <b>Websites , Ai , Web3 and other geeky things</b>
+- 💬 Ask me about <b>Techs , Ai , Web3 and other geeky things</b>
 
 - 📫 How to reach me **rishimishra0404@gmail.com**
 
